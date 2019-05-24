@@ -147,7 +147,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .project:hover .project-hover .project-hover-inner span, .project:hover .project-hover .post-hover-inner span, .project:hover .post-hover .project-hover-inner span, .project:hover .post-hover .post-hover-inner span, .project:focus .project-hover .project-hover-inner span, .project:focus .project-hover .post-hover-inner span, .project:focus .post-hover .project-hover-inner span, .project:focus .post-hover .post-hover-inner span, .post:hover .project-hover .project-hover-inner span, .post:hover .project-hover .post-hover-inner span, .post:hover .post-hover .project-hover-inner span, .post:hover .post-hover .post-hover-inner span, .post:focus .project-hover .project-hover-inner span, .post:focus .project-hover .post-hover-inner span, .post:focus .post-hover .project-hover-inner span, .post:focus .post-hover .post-hover-inner span { bottom: 0; visibility: visible; opacity: 1; }
 
-.templateux-footer { padding: 7em 0; border-top: 1px solid #F4F4F4; }
+.templateux-footer { padding: 5em 0; border-top: 1px solid #F4F4F4; }
 
 .templateux-footer .container-fluid { max-width: 100%; }
 
@@ -305,5 +305,10 @@ textarea.form-control { height: inherit; }
 .block-38 .block-38-header .block-38-subheading { color: #b3b3b3; margin: 0 0 20px 0; text-transform: uppercase; font-size: 15px; }
 
 .block-38 .block-38-header img { width: 200px; border-radius: 50%; margin-bottom: 20px; }
+
+.email {
+  color: #dc3545;
+  font-size: 24px;
+}
 
 
