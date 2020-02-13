@@ -32,6 +32,8 @@ p { text-align: left;}
 
 .icon { width: 1rem;}
 
+footer { border-top: #cdcdcd;}
+
 a { -webkit-transition: .3s all ease; -o-transition: .3s all ease; transition: .3s all ease; }
 
 a:hover, a:active, a:focus { text-decoration: none; outline: none; }
@@ -78,7 +80,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-navbar.navbar-light .hamburger .hamburger-inner, .templateux-navbar.navbar-light .hamburger .hamburger-inner::before, .templateux-navbar.navbar-light .hamburger .hamburger-inner::after { background-color: #f6f6f6; }
 
-.templateux-navbar.navbar-light .templateux-menu ul li a { color: #; }
+.templateux-navbar.navbar-light .templateux-menu ul li a { color: #cdcdcd; }
 
 .menu-open .templateux-navbar { position: relative; left: 0; top: 0; }
 
